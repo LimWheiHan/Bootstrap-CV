@@ -1,0 +1,77 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Poppins', sans-serif;
+	color: #222;
+}
+
+.name{
+	
+}
+
+.navbar{
+	padding: .8rem;
+}
+.navbar-nav li{
+	padding-right: 20px;
+}
+/*
+.nav-link{
+	font-size: 1.1em !important;
+}*/
+.fa-code{
+	color: #e54d26;
+}
+.fa-bold{
+	color: #563d7c;
+}
+.fa-database{
+	color: #6895F9;
+}
+.fa-code, .fa-bold,.fa-database{
+	font-size: 4em;
+	margin: 2rem;
+}
+.fa-facebook{
+	color: #3b5998;
+}
+.fa-twitter{
+	color: #00aced;
+}
+.fa-instagram{
+	color: #517fa4;
+}
+.fa-facebook,
+.fa-twitter,
+.fa-instagram,
+.fa-linkedin{
+	font-size: 3em;
+	margin: 1rem;
+}
+/*--Grey when hower over--*/
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-linkedin:hover{
+	color: #d5d5d5;
+}
+
+#footer {
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 2rem;
+}
+
+
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
